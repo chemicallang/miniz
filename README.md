@@ -5,7 +5,7 @@ Chemical bindings for `miniz`.
 ## Usage
 
 ```chmod
-import "../miniz"
+import "chemicallang/miniz"
 ```
 
 ## Example
